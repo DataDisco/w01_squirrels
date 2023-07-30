@@ -13,7 +13,7 @@ Note that your exact setup may depend on OS and python version.
 - Then `cd` into the repo directory and create your virtual environment
 `~$ python3 -m venv venv --prompt DISCO --upgrade-deps`
 
-- Activate the Install the dependences
+- Activate your venv and install the dependences
 `~$ . venv\bin\activate`
 `~$ pip3 install -r requirements.txt`
 
